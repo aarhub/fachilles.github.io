@@ -56,8 +56,8 @@ gitalk:
   clientID: 72a7e50f7968ca4e09cc   #生成的clientID
   clientSecret: c83014ffec3b17f69b89828d972ace98adcfb221  #同上
   repo: fachilles.github.io    #仓库名称
-  owner: fachilles    #github用户名
-  admin: fachilles
+  owner: 'fachilles'    #github用户名
+  admin: 'fachilles'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
