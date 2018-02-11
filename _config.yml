@@ -3,7 +3,7 @@ title: F.Achilles Blog
 SEOTitle: F.Achilles Blog | F.Achilles Blog
 header-img: img/post-bg-desk.jpg
 email: bluekobear@gmail.com
-description: "Every failure is leading towards success."
+description: "Perfect isn't pretty."
 keyword: "Javascript, React.js, React Native, Java, Node, C#, Full Stack Developer, Docker, Go"
 url: "http://fachilles.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,7 @@ github_repo: "https://github.com/fachilles/fachilles.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "If you want something you never had!You have to do something you've never done."
 
 
 

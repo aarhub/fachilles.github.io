@@ -21,12 +21,12 @@ layout: default
 <div class="container">
 	<div class="row">
         {% if site.sidebar == false %}
-<!-- NO SIDEBAR -->
-    <!-- PostList Container -->
+        <!-- NO SIDEBAR -->
+        <!-- PostList Container -->
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
                 {{ content }}
             </div>
-    <!-- Sidebar Container -->
+        <!-- Sidebar Container -->
             <div class="
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
@@ -102,11 +102,6 @@ layout: default
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
                     <div class="short-about">
-                        {% if site.sidebar-avatar %}
-                            <a href="{{ site.baseurl }}/about">
-                                <img src="{{site.sidebar-avatar}}"/>
-                            </a>
-                        {% endif %}
                         {% if site.sidebar-about-description %}
                             <p>{{site.sidebar-about-description}}</p>
                         {% endif %}
