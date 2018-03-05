@@ -11,6 +11,7 @@ tags:
 ---
 
 !(React Native Pay)[https://github.com/fachilles/react-native-pay]
+![shot](https://raw.githubusercontent.com/fachilles/fachilles.github.io/master/static/imgs/react-native-pay/paypal-demo.png)   
 
 There is a demo of React Native integrating the PayPal api.  
 Post a star or issue that make the demo better.
