@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      React重构Slack的Emoji Picker「译」
+title:      React重构Slack的Emoji Picker「转」
 subtitle:   React重构Emoji Picker
 date:       2018-3-1
 author:     fachilles
