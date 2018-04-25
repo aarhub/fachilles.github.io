@@ -11,4 +11,4 @@ tags:
 ---
 
 个人Github Pages绑定个人域名制作博客；
-https://segmentfault.com/a/1190000011203711 
+https://segmentfault.com/a/1190000011203711
