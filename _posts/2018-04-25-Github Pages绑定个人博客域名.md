@@ -2,7 +2,7 @@
 layout:     post
 title:      Github Pages绑定个人博客域名「转」
 subtitle:   Github Pages绑定个人博客域名
-date:       2018-3-30
+date:       2018-4-25
 author:     fachilles
 header-img: 
 catalog: true
